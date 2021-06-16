@@ -60,3 +60,8 @@ ul li {
     border-radius: 10px;
     box-shadow: 0 6px 16px rgb(52 105 203 / 16%);
 }
+
+.hmprd:hover {
+    background: #02065d;
+    color: #fff;
+}
