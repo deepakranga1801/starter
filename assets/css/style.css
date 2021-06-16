@@ -1,0 +1,7 @@
+/* Home Product */
+
+.hmprd {
+    border: 1px solid #eee;
+    border-radius: 10px;
+    box-shadow: 0 6px 16px rgb(52 105 203 / 16%);
+}
