@@ -17,10 +17,8 @@ ul li {
 }
 
 .text-primary-color {
-    color: #008bde;
+    color: #484bf2;
     box-shadow: 0 7px 0px -1px;
-    margin-bottom: 50px;
-    line-height: 1.5;
 }
 
 .nav-link {
@@ -32,6 +30,10 @@ ul li {
     color: #fff;
     background-color: #02065d;
     border-color: #02065d;
+}
+
+.title {
+    color:#02065d;
 }
 
 /* Scrollbar Css */
