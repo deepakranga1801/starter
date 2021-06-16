@@ -28,6 +28,12 @@ ul li {
     color: #000;
 }
 
+.btn-dark {
+    color: #fff;
+    background-color: #02065d;
+    border-color: #02065d;
+}
+
 /* Scrollbar Css */
 ::-webkit-scrollbar {
     width: 5px;
