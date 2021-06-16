@@ -87,12 +87,12 @@ ul li {
 
 .card--3 .card__img,
 .card--3 .card__img--hover {
-    background-image: url('assets/images/home_insure.jpg');
+    background-image: url('/../assets/images/home_insure.jpg');
 }
 
 .card--4 .card__img,
 .card--4 .card__img--hover {
-    background-image: url('assets/images/ask_us.jpg');
+    background-image: url('../../assets/images/ask_us.jpg');
 }
 
 .card__img {
