@@ -77,17 +77,17 @@ ul li {
 
 .card--1 .card__img,
 .card--1 .card__img--hover {
-    background-image: url('/assets/images/covid_insure.jpg');
+    background-image: url('/../../assets/images/covid_insure.jpg');
 }
 
 .card--2 .card__img,
 .card--2 .card__img--hover {
-    background-image: url('../assets/images/invest.jpg');
+    background-image: url('/../../assets/images/invest.jpg');
 }
 
 .card--3 .card__img,
 .card--3 .card__img--hover {
-    background-image: url('/../assets/images/home_insure.jpg');
+    background-image: url('/../../assets/images/home_insure.jpg');
 }
 
 .card--4 .card__img,
