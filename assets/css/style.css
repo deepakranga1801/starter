@@ -16,6 +16,10 @@ ul li {
     padding: 5px;
 }
 
+.fa, .fas {
+    font-size: xx-large;
+}
+
 .text-primary-color {
     color: #484bf2;
     box-shadow: 0 7px 0px -1px;
