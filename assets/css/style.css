@@ -172,7 +172,7 @@ ul li {
 }
 
 .card:hover .card__img--hover {
-    height: 100%;
+    height: 113%;
     opacity: 0.3;
 }
 
