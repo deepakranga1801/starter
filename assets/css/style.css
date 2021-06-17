@@ -22,7 +22,7 @@ ul li {
 
 .text-primary-color {
     color: #484bf2;
-    box-shadow: 0 7px 0px -1px;
+    /* box-shadow: 0 7px 0px -1px; */
 }
 
 .nav-link {
