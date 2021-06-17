@@ -194,7 +194,7 @@ ul li {
 }
 
 .plogo:hover {
-    box-shadow: 0 0 35px rgb(0 0 0 / 27%);
+    box-shadow: rgb(52 105 203 / 16%) 0px 6px 16px;
 }
 
 /* Media Queries */
