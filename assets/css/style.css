@@ -199,7 +199,9 @@ ul li {
 
 /* Footer */
 .footer-city {
-    background-image: url('assets/images/india-skyline-insuredaq.png');
+    background-image: url(../../assets/images/india-skyline-insuredaq.png);
+    background-size: contain;
+    height: 140px;
 }
 
 /* Media Queries */
