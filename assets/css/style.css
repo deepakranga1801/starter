@@ -197,6 +197,11 @@ ul li {
     box-shadow: rgb(52 105 203 / 16%) 0px 6px 16px;
 }
 
+/* Footer */
+.footer-city {
+    background-image: url('assets/images/india-skyline-insuredaq.png');
+}
+
 /* Media Queries */
 @media only screen and (max-width: 480px) {
     .plogo {
