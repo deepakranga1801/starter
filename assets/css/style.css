@@ -204,6 +204,161 @@ ul li {
     height: 140px;
 }
 
+footer .main-footer {
+    padding: 20px 0;
+    background: #02065d;
+}
+/* 
+.black-footer {
+    padding: 20px 0;
+    background: #282a32 !important;
+} */
+
+footer ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+.footer-copyright {
+    background: #031163;
+    padding: 5px 0;
+}
+
+/* .white-copyright {
+    background: #fff !important;
+    padding: 5px 0;
+} */
+
+.footer-copyright .logo {
+    display: inherit;
+}
+
+.footer-copyright nav {
+    float: right;
+    margin-top: 5px;
+}
+
+.footer-copyright nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.footer-copyright nav ul li {
+    border-left: 1px solid #505050;
+    display: inline-block;
+    line-height: 12px;
+    margin: 0;
+    padding: 0 8px;
+}
+
+.footer-copyright nav ul li a {
+    color: #969696;
+}
+
+.footer-copyright nav ul li:first-child {
+    border: medium none;
+    padding-left: 0;
+}
+
+.footer-copyright p {
+    color: #fff;
+    margin: 2px 0 20px;
+}
+
+.widget {
+    margin-bottom: 40px;
+}
+
+.widget.widget-last {
+    margin-bottom: 0px;
+}
+
+.widget.no-box {
+    padding: 0;
+    background-color: transparent;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    -ms-box-shadow: none;
+    -o-box-shadow: none;
+}
+
+.widget.subscribe p {
+    margin-bottom: 18px;
+}
+
+.widget li a {
+    color: #fff;
+}
+
+.widget li a:hover {
+    color: #f93f00;
+}
+
+.widget-title {
+    margin-bottom: 20px;
+    color: #fe8a00 !important;
+    font-weight: 800;
+}
+
+.widget-title span {
+    display: block;
+    height: 1px;
+    margin-top: 25px;
+    position: relative;
+    width: 20%;
+    background: #fe8a00;
+}
+
+.widget-title span::after {
+    background: #fe8a00;
+    content: "";
+    height: inherit;
+    position: absolute;
+    top: -4px;
+    width: 50%;
+}
+
+.widget-title.text-center span,
+.widget-title.text-center span::after {
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+}
+
+.typo-light h1,
+.typo-light h2,
+.typo-light h3,
+.typo-light h4,
+.typo-light h5,
+.typo-light h6,
+.typo-light p,
+.typo-light div,
+.typo-light span,
+.typo-light small {
+    color: #fff;
+}
+
+ul.social-footer2 {
+    margin: 0;
+    padding: 0;
+    width: auto;
+}
+
+ul.social-footer2 li {
+    display: inline-block;
+    padding: 0;
+}
+
+ul.social-footer2 li a {
+    display: block;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+}
+
 /* Media Queries */
 @media only screen and (max-width: 480px) {
     .plogo {
