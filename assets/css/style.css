@@ -230,6 +230,10 @@ footer ul {
     list-style: none;
 }
 
+footer.widget-title a {
+    color: #fff;
+}
+
 .footer-copyright {
     background: #031163;
     padding: 5px 0;
