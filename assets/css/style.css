@@ -16,6 +16,12 @@ ul li {
     padding: 5px;
 }
 
+hr {
+    color: #fff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .fa, .fas {
     font-size: xx-large;
 }
