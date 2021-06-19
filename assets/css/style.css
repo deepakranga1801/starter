@@ -200,8 +200,8 @@ ul li {
 /* Footer */
 .footer-city {
     background-image: url(../../assets/images/india-skyline-insuredaq.png);
-    background-size: contain;
-    height: 140px;
+    background-size: cover;
+    height: 450px;
 }
 
 footer .main-footer {
