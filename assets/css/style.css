@@ -208,11 +208,6 @@ footer .main-footer {
     padding: 20px 0;
     background: #02065d;
 }
-/* 
-.black-footer {
-    padding: 20px 0;
-    background: #282a32 !important;
-} */
 
 footer ul {
     padding-left: 0;
@@ -223,11 +218,6 @@ footer ul {
     background: #031163;
     padding: 5px 0;
 }
-
-/* .white-copyright {
-    background: #fff !important;
-    padding: 5px 0;
-} */
 
 .footer-copyright .logo {
     display: inherit;
@@ -293,13 +283,13 @@ footer ul {
 }
 
 .widget li a:hover {
-    color: #f93f00;
+    color: #484bf2;
 }
 
 .widget-title {
     margin-bottom: 20px;
-    color: #fe8a00 !important;
-    font-weight: 800;
+    color: #484bf2 !important;
+    font-weight: 500;
 }
 
 .widget-title span {
@@ -308,11 +298,11 @@ footer ul {
     margin-top: 25px;
     position: relative;
     width: 20%;
-    background: #fe8a00;
+    background: #484bf2;
 }
 
 .widget-title span::after {
-    background: #fe8a00;
+    background: #484bf2;
     content: "";
     height: inherit;
     position: absolute;
