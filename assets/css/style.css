@@ -230,7 +230,7 @@ footer ul {
     list-style: none;
 }
 
-footer.widget-title a {
+footer a:hover {
     color: #fff;
 }
 
