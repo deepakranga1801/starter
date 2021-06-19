@@ -197,7 +197,17 @@ ul li {
     box-shadow: rgb(52 105 203 / 16%) 0px 6px 16px;
 }
 
+/* Miscellaneous */
+.pos-cta {
+    bottom: -630px;
+}
+
 /* Footer */
+#footer {
+    padding-top: 25%;
+    background: #02065d;
+}
+
 .footer-city {
     background-image: url(../../assets/images/india-skyline-insuredaq.png);
     background-size: cover;
