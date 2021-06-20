@@ -208,6 +208,10 @@ hr {
     bottom: -750px;
 }
 
+.fixme {
+    background: #008bde;
+}
+
 /* Footer */
 #footer {
     padding-top: 20%;
