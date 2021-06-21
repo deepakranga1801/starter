@@ -211,6 +211,12 @@ hr {
     border-radius: 18px;
 }
 
+.tbl {
+    overflow: scroll;
+    overflow-x: hidden;
+    height: 800px;
+}
+
 /* Footer */
 #footer {
     padding-top: 20%;
